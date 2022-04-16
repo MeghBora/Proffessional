@@ -614,6 +614,10 @@ button {
   row-gap: 3rem;
 }
 
+.home_img{
+  border-radius: 40px;
+  margin-left: 4rem;
+}
 .contact_info {
   display: flex;
   margin-bottom: var(--mb-2);
